@@ -1,4 +1,4 @@
-# Kode for å lese timeplan fra timeplan.uit.no, lagrer denne som excelark
+# Kode for å lese timeplan fra timeplan.uit.no, lagrer denne som google sheets og evt excelark
 
 # Mappe til kurset/der du vil lagre fila
 getwd()
